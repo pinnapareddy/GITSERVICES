@@ -1,0 +1,422 @@
+2019-05-17 11:35:54 DEBUG hiii===C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red
+2019-05-17 11:35:54 DEBUG hiii===C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red
+2019-05-17 11:35:54 DEBUG hiii===undefined
+2019-05-17 11:35:55 DEBUG path :::C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red/Etc/license.properties
+2019-05-17 11:35:55 DEBUG new File(path) :::false
+2019-05-17 11:35:55 DEBUG Reading file from java :::C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\\config\jsonFiles\preConfig.json
+2019-05-17 11:35:55 DEBUG :::9/5/2019
+2019-05-17 11:35:55 DEBUG :::::::::8
+2019-05-17 11:35:55 DEBUG date2.compareTo(date1):::7
+2019-05-17 11:35:55 DEBUG Not a valid license or license expired. Please contact system administrator and get the license for any one of the listed Id's : [eca808aa115b2824b5c5a95c7e1ed856]
+2019-05-17 11:38:51 DEBUG hiii===C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red
+2019-05-17 11:38:51 DEBUG hiii===C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red
+2019-05-17 11:38:51 DEBUG hiii===undefined
+2019-05-17 11:38:51 DEBUG path :::C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red/Etc/license.properties
+2019-05-17 11:38:51 DEBUG new File(path) :::true
+2019-05-17 11:38:51 DEBUG Date1 is after Date2
+2019-05-17 11:38:51 DEBUG MAC address matched
+2019-05-17 11:38:51 DEBUG MAC valuation status-------true
+2019-05-17 11:38:51 DEBUG you are validated user
+2019-05-17 11:38:51 DEBUG userSettingsFileC:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red\settings.js
+2019-05-17 11:38:52 DEBUG get loc filepath==C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\
+2019-05-17 11:38:52 DEBUG flowfile ===flowin.json
+2019-05-17 11:38:53 DEBUG filepath: C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red/AtlasWorkbench/assets/propertiesFiles/ATLAS.properties
+2019-05-17 11:38:53 DEBUG You may edit  :C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red\AtlasWorkbench\assets\propertiesFiles\ATLAS.properties now !
+2019-05-17 11:38:53 DEBUG Reading file from java :::C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\config\jsonFiles\config.json
+2019-05-17 11:38:53 DEBUG Reading file from java :::\C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows\1a502a8c.56ac75.json
+2019-05-17 11:38:53 DEBUG Reading file from java :::\C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows\1db8de7c.330ce2.json
+2019-05-17 11:38:53 DEBUG Reading file from java :::\C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows\5b5e18c2.b54928.json
+2019-05-17 11:38:53 DEBUG Reading file from java :::\C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows\7b048e6.2c92e7.json
+2019-05-17 11:38:53 DEBUG Reading file from java :::\C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows\89c441a1.b8c2.json
+2019-05-17 11:38:53 DEBUG Reading file from java :::\C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows\8ef36c68.8ca4a.json
+2019-05-17 11:38:53 DEBUG Reading file from java :::\C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows\8f69df14.93c24.json
+2019-05-17 11:38:53 DEBUG Reading file from java :::\C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows\9b0db322.bdc6e.json
+2019-05-17 11:38:53 DEBUG Reading file from java :::\C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows\a67dc381.76366.json
+2019-05-17 11:38:53 DEBUG Reading file from java :::\C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows\b1894657.89d8f8.json
+2019-05-17 11:38:53 DEBUG Reading file from java :::\C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows\be8fe6bc.2ed6e8.json
+2019-05-17 11:38:53 DEBUG Reading file from java :::\C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows\cbc2980e.8a0dd8.json
+2019-05-17 11:38:53 DEBUG Reading file from java :::\C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows\d77c8094.3c33c.json
+2019-05-17 11:38:53 DEBUG Reading file from java :::\C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows\e387c2eb.5f775.json
+2019-05-17 11:38:53 DEBUG Reading file from java :::\C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows\eca1dbb9.a63778.json
+2019-05-17 11:38:53 DEBUG Reading file from java :::\C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows\f4a3cba.6378438.json
+2019-05-17 11:38:53 DEBUG Reading file from java :::\C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows\fc33d067.7d92e.json
+2019-05-17 11:38:53 DEBUG flowfile location===C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows
+2019-05-17 11:38:53 DEBUG noderedurl==0.0.0.0:8085
+2019-05-17 11:38:53 DEBUG Reading file from java :::C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\config\jsonFiles\config.json
+2019-05-17 11:38:53 DEBUG =macro=453==C:/AtlasInstaller_Apr4/Atlas/ATLAS-Framework/node-red/npm/node_modules/node-red/EAKit/Bin
+2019-05-17 11:38:53 DEBUG Inside Outlook
+2019-05-17 11:38:53 DEBUG ss2
+2019-05-17 11:38:53 DEBUG =macro=453==C:/AtlasInstaller_Apr4/Atlas/ATLAS-Framework/node-red/npm/node_modules/node-red/EAKit/lib
+2019-05-17 11:38:55 INFO  static block is initialized ....
+2019-05-17 11:38:55 DEBUG Available dbtypes for RegisterModels => [FOLDER, MYSQL, DERBY]
+2019-05-17 11:38:55 DEBUG ######## root ####### => [FOLDER, MYSQL, DERBY]
+2019-05-17 11:38:55 DEBUG ######## rowslimit ####### => 1000
+2019-05-17 11:38:55 DEBUG ######## dbType ####### => FOLDER
+2019-05-17 11:38:55 DEBUG ######## isDBCreated ####### => false
+2019-05-17 11:38:55 DEBUG ######## dbName ####### => mydb
+2019-05-17 11:38:55 INFO  FolderWrapperImpl => FolderWrapperImpl() => DataBase Type : FOLDER
+2019-05-17 11:38:55 INFO  FolderWrapperImpl => FolderWrapperImpl() => ModelsFolder : C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red\EAKit/Models
+2019-05-17 11:38:55 DEBUG ######## maxthreads ####### => 5
+2019-05-17 11:38:55 DEBUG ######## python ####### => C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red\EAKit/Thirdparty/python/Python27##pythonScriptPath##C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red\EAKit/Thirdparty/python/scoring.py
+2019-05-17 11:38:56 DEBUG Get connection for route {}->http://localhost:8300
+2019-05-17 11:38:56 DEBUG Connecting to localhost:8300
+2019-05-17 11:38:56 DEBUG Exception occured in clening sessioncom.jacob.com.ComFailException: Can't co-create object
+2019-05-17 11:38:56 ERROR Exception occuredcom.jacob.com.ComFailException: Can't co-create object
+2019-05-17 11:38:57 DEBUG Connect to localhost:8300 timed out. Connection will be retried using another IP address
+2019-05-17 11:38:57 DEBUG Connecting to localhost:8300
+2019-05-17 11:38:58 DEBUG Connection org.apache.http.impl.conn.DefaultClientConnection@7bfc3126 closed
+2019-05-17 11:38:58 DEBUG Connection org.apache.http.impl.conn.DefaultClientConnection@7bfc3126 shut down
+2019-05-17 11:38:58 DEBUG Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@3e792ce3
+2019-05-17 11:38:58 ERROR RestClientUtils => pythonRestServiceByPostRequest => Exception :: May be python service is not started !!!Connection refused: connect
+2019-05-17 11:38:58 DEBUG ################## WINDOWS ? true
+2019-05-17 11:38:58 DEBUG ######command#########cd /d "C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red\EAKit/Thirdparty/python/Python27" && python.exe "C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red\EAKit/Thirdparty/python/scoring.py" 8300 localhost
+2019-05-17 11:38:58 INFO  Please wait python service is initiating......
+2019-05-17 11:38:58 DEBUG Get connection for route {}->http://localhost:8300
+2019-05-17 11:38:58 DEBUG Connecting to localhost:8300
+2019-05-17 11:38:59 DEBUG Connect to localhost:8300 timed out. Connection will be retried using another IP address
+2019-05-17 11:38:59 DEBUG Connecting to localhost:8300
+2019-05-17 11:39:00 DEBUG Connection org.apache.http.impl.conn.DefaultClientConnection@78e16155 closed
+2019-05-17 11:39:00 DEBUG Connection org.apache.http.impl.conn.DefaultClientConnection@78e16155 shut down
+2019-05-17 11:39:00 DEBUG Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@54a3ab8f
+2019-05-17 11:39:00 ERROR RestClientUtils => pythonRestServiceByPostRequest => Exception :: May be python service is not started !!!Connection refused: connect
+2019-05-17 11:39:00 DEBUG ####### server response ####### : {"status":"Connection refused: connect"}
+2019-05-17 11:39:00 DEBUG Get connection for route {}->http://localhost:8300
+2019-05-17 11:39:00 DEBUG Connecting to localhost:8300
+2019-05-17 11:39:01 DEBUG Connect to localhost:8300 timed out. Connection will be retried using another IP address
+2019-05-17 11:39:01 DEBUG Connecting to localhost:8300
+2019-05-17 11:39:02 DEBUG Connection org.apache.http.impl.conn.DefaultClientConnection@1968a49c closed
+2019-05-17 11:39:02 DEBUG Connection org.apache.http.impl.conn.DefaultClientConnection@1968a49c shut down
+2019-05-17 11:39:02 DEBUG Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@6a1ebcff
+2019-05-17 11:39:02 ERROR RestClientUtils => pythonRestServiceByPostRequest => Exception :: May be python service is not started !!!Connection refused: connect
+2019-05-17 11:39:02 DEBUG ####### server response ####### : {"status":"Connection refused: connect"}
+2019-05-17 11:39:02 DEBUG Get connection for route {}->http://localhost:8300
+2019-05-17 11:39:02 DEBUG Connecting to localhost:8300
+2019-05-17 11:39:03 DEBUG Connect to localhost:8300 timed out. Connection will be retried using another IP address
+2019-05-17 11:39:03 DEBUG Connecting to localhost:8300
+2019-05-17 11:39:04 DEBUG Connection org.apache.http.impl.conn.DefaultClientConnection@3ef41c66 closed
+2019-05-17 11:39:04 DEBUG Connection org.apache.http.impl.conn.DefaultClientConnection@3ef41c66 shut down
+2019-05-17 11:39:04 DEBUG Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@6b739528
+2019-05-17 11:39:04 ERROR RestClientUtils => pythonRestServiceByPostRequest => Exception :: May be python service is not started !!!Connection refused: connect
+2019-05-17 11:39:04 DEBUG ####### server response ####### : {"status":"Connection refused: connect"}
+2019-05-17 11:39:04 DEBUG Get connection for route {}->http://localhost:8300
+2019-05-17 11:39:04 DEBUG Connecting to localhost:8300
+2019-05-17 11:39:05 DEBUG Connect to localhost:8300 timed out. Connection will be retried using another IP address
+2019-05-17 11:39:05 DEBUG Connecting to localhost:8300
+2019-05-17 11:39:06 DEBUG Connection org.apache.http.impl.conn.DefaultClientConnection@622ef26a closed
+2019-05-17 11:39:06 DEBUG Connection org.apache.http.impl.conn.DefaultClientConnection@622ef26a shut down
+2019-05-17 11:39:06 DEBUG Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@41de5768
+2019-05-17 11:39:06 ERROR RestClientUtils => pythonRestServiceByPostRequest => Exception :: May be python service is not started !!!Connection refused: connect
+2019-05-17 11:39:06 DEBUG ####### server response ####### : {"status":"Connection refused: connect"}
+2019-05-17 11:39:06 DEBUG Get connection for route {}->http://localhost:8300
+2019-05-17 11:39:06 DEBUG Connecting to localhost:8300
+2019-05-17 11:39:07 DEBUG Connect to localhost:8300 timed out. Connection will be retried using another IP address
+2019-05-17 11:39:07 DEBUG Connecting to localhost:8300
+2019-05-17 11:39:08 DEBUG Connection org.apache.http.impl.conn.DefaultClientConnection@5f577419 closed
+2019-05-17 11:39:08 DEBUG Connection org.apache.http.impl.conn.DefaultClientConnection@5f577419 shut down
+2019-05-17 11:39:08 DEBUG Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@28fa700e
+2019-05-17 11:39:08 ERROR RestClientUtils => pythonRestServiceByPostRequest => Exception :: May be python service is not started !!!Connection refused: connect
+2019-05-17 11:39:08 DEBUG ####### server response ####### : {"status":"Connection refused: connect"}
+2019-05-17 11:39:08 DEBUG Get connection for route {}->http://localhost:8300
+2019-05-17 11:39:08 DEBUG Connecting to localhost:8300
+2019-05-17 11:39:09 DEBUG Connect to localhost:8300 timed out. Connection will be retried using another IP address
+2019-05-17 11:39:09 DEBUG Connecting to localhost:8300
+2019-05-17 11:39:10 DEBUG Connection org.apache.http.impl.conn.DefaultClientConnection@3d526ad9 closed
+2019-05-17 11:39:10 DEBUG Connection org.apache.http.impl.conn.DefaultClientConnection@3d526ad9 shut down
+2019-05-17 11:39:10 DEBUG Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@e041f0c
+2019-05-17 11:39:10 ERROR RestClientUtils => pythonRestServiceByPostRequest => Exception :: May be python service is not started !!!Connection refused: connect
+2019-05-17 11:39:10 DEBUG ####### server response ####### : {"status":"Connection refused: connect"}
+2019-05-17 11:39:10 DEBUG Get connection for route {}->http://localhost:8300
+2019-05-17 11:39:10 DEBUG Connecting to localhost:8300
+2019-05-17 11:39:11 DEBUG Connect to localhost:8300 timed out. Connection will be retried using another IP address
+2019-05-17 11:39:11 DEBUG Connecting to localhost:8300
+2019-05-17 11:39:12 DEBUG Connection org.apache.http.impl.conn.DefaultClientConnection@6a175569 closed
+2019-05-17 11:39:12 DEBUG Connection org.apache.http.impl.conn.DefaultClientConnection@6a175569 shut down
+2019-05-17 11:39:12 DEBUG Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@11963225
+2019-05-17 11:39:12 ERROR RestClientUtils => pythonRestServiceByPostRequest => Exception :: May be python service is not started !!!Connection refused: connect
+2019-05-17 11:39:12 DEBUG ####### server response ####### : {"status":"Connection refused: connect"}
+2019-05-17 11:39:13 DEBUG Get connection for route {}->http://localhost:8300
+2019-05-17 11:39:13 DEBUG Connecting to localhost:8300
+2019-05-17 11:39:14 DEBUG Connect to localhost:8300 timed out. Connection will be retried using another IP address
+2019-05-17 11:39:14 DEBUG Connecting to localhost:8300
+2019-05-17 11:39:15 DEBUG Connection org.apache.http.impl.conn.DefaultClientConnection@3f3c966c closed
+2019-05-17 11:39:15 DEBUG Connection org.apache.http.impl.conn.DefaultClientConnection@3f3c966c shut down
+2019-05-17 11:39:15 DEBUG Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@11ee02f8
+2019-05-17 11:39:15 ERROR RestClientUtils => pythonRestServiceByPostRequest => Exception :: May be python service is not started !!!Connection refused: connect
+2019-05-17 11:39:15 DEBUG ####### server response ####### : {"status":"Connection refused: connect"}
+2019-05-17 11:39:15 DEBUG Get connection for route {}->http://localhost:8300
+2019-05-17 11:39:15 DEBUG Connecting to localhost:8300
+2019-05-17 11:39:16 DEBUG Connect to localhost:8300 timed out. Connection will be retried using another IP address
+2019-05-17 11:39:16 DEBUG Connecting to localhost:8300
+2019-05-17 11:39:17 DEBUG Connection org.apache.http.impl.conn.DefaultClientConnection@4102b1b1 closed
+2019-05-17 11:39:17 DEBUG Connection org.apache.http.impl.conn.DefaultClientConnection@4102b1b1 shut down
+2019-05-17 11:39:17 DEBUG Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@61a5b4ae
+2019-05-17 11:39:17 ERROR RestClientUtils => pythonRestServiceByPostRequest => Exception :: May be python service is not started !!!Connection refused: connect
+2019-05-17 11:39:17 DEBUG ####### server response ####### : {"status":"Connection refused: connect"}
+2019-05-17 11:39:17 DEBUG Get connection for route {}->http://localhost:8300
+2019-05-17 11:39:17 DEBUG Connecting to localhost:8300
+2019-05-17 11:39:18 DEBUG Connect to localhost:8300 timed out. Connection will be retried using another IP address
+2019-05-17 11:39:18 DEBUG Connecting to localhost:8300
+2019-05-17 11:39:19 DEBUG Connection org.apache.http.impl.conn.DefaultClientConnection@3a71c100 closed
+2019-05-17 11:39:19 DEBUG Connection org.apache.http.impl.conn.DefaultClientConnection@3a71c100 shut down
+2019-05-17 11:39:19 DEBUG Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@5b69fd74
+2019-05-17 11:39:19 ERROR RestClientUtils => pythonRestServiceByPostRequest => Exception :: May be python service is not started !!!Connection refused: connect
+2019-05-17 11:39:19 DEBUG ####### server response ####### : {"status":"Connection refused: connect"}
+2019-05-17 11:39:19 DEBUG Get connection for route {}->http://localhost:8300
+2019-05-17 11:39:19 DEBUG Connecting to localhost:8300
+2019-05-17 11:39:19 DEBUG CookieSpec selected: best-match
+2019-05-17 11:39:19 DEBUG Auth cache not set in the context
+2019-05-17 11:39:19 DEBUG Target auth state: UNCHALLENGED
+2019-05-17 11:39:19 DEBUG Proxy auth state: UNCHALLENGED
+2019-05-17 11:39:19 DEBUG Attempt 1 to execute request
+2019-05-17 11:39:19 DEBUG Sending request: GET /embeddedanalytics/getrequest HTTP/1.1
+2019-05-17 11:39:19 DEBUG  >> "GET /embeddedanalytics/getrequest HTTP/1.1[\r][\n]"
+2019-05-17 11:39:19 DEBUG  >> "Content-Type: application/json[\r][\n]"
+2019-05-17 11:39:19 DEBUG  >> "Host: localhost:8300[\r][\n]"
+2019-05-17 11:39:19 DEBUG  >> "Connection: Keep-Alive[\r][\n]"
+2019-05-17 11:39:19 DEBUG  >> "User-Agent: Apache-HttpClient/4.3.4 (java 1.5)[\r][\n]"
+2019-05-17 11:39:19 DEBUG  >> "[\r][\n]"
+2019-05-17 11:39:19 DEBUG >> GET /embeddedanalytics/getrequest HTTP/1.1
+2019-05-17 11:39:19 DEBUG >> Content-Type: application/json
+2019-05-17 11:39:19 DEBUG >> Host: localhost:8300
+2019-05-17 11:39:19 DEBUG >> Connection: Keep-Alive
+2019-05-17 11:39:19 DEBUG >> User-Agent: Apache-HttpClient/4.3.4 (java 1.5)
+2019-05-17 11:39:19 DEBUG  << "HTTP/1.0 403 Forbidden[\r][\n]"
+2019-05-17 11:39:19 DEBUG  << "Server: BaseHTTP/0.3 Python/2.7.15[\r][\n]"
+2019-05-17 11:39:19 DEBUG  << "Date: Fri, 17 May 2019 06:09:19 GMT[\r][\n]"
+2019-05-17 11:39:19 DEBUG  << "Content-Type: application/json[\r][\n]"
+2019-05-17 11:39:19 DEBUG  << "[\r][\n]"
+2019-05-17 11:39:19 DEBUG Receiving response: HTTP/1.0 403 Forbidden
+2019-05-17 11:39:19 DEBUG << HTTP/1.0 403 Forbidden
+2019-05-17 11:39:19 DEBUG << Server: BaseHTTP/0.3 Python/2.7.15
+2019-05-17 11:39:19 DEBUG << Date: Fri, 17 May 2019 06:09:19 GMT
+2019-05-17 11:39:19 DEBUG << Content-Type: application/json
+2019-05-17 11:39:19 DEBUG Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@29b732a2
+2019-05-17 11:39:19 DEBUG Connection 0.0.0.0:62496<->127.0.0.1:8300 shut down
+2019-05-17 11:39:19 DEBUG ####### server response ####### : {"status":"success"}
+2019-05-17 11:39:19 DEBUG #######257####### is HTTP server started ? true
+2019-05-17 11:39:19 INFO  ====== status ====== => HTTP server running!!!!
+2019-05-17 11:39:20 DEBUG ####### processJobs ####### 36
+2019-05-17 11:39:20 DEBUG ####### processJobs ####### 34
+2019-05-17 11:39:20 DEBUG ####### processJobs ####### 18
+2019-05-17 11:39:20 DEBUG ####### processJobs ####### 32
+2019-05-17 11:39:20 DEBUG ####### processJobs ####### 38
+2019-05-17 11:39:20 INFO  
+
+Welcome to Node-RED
+===================
+
+2019-05-17 11:39:20 INFO  Node-RED version: v0.18.4
+2019-05-17 11:39:20 INFO  Node.js  version: v8.9.4
+2019-05-17 11:39:20 INFO  Windows_NT 10.0.17134 x64 LE
+2019-05-17 11:39:20 INFO  Palette editor disabled : npm command not found
+2019-05-17 11:39:20 INFO  Loading palette nodes
+2019-05-17 11:39:34 INFO  Dashboard version 2.7.0 started at /ui
+2019-05-17 11:39:51 WARN  ------------------------------------------------------
+2019-05-17 11:39:51 WARN  [node-red/rpi-gpio] Info : Ignoring Raspberry Pi specific node
+2019-05-17 11:39:51 WARN  [node-red/tail] Not currently supported on Windows.
+2019-05-17 11:39:51 WARN  [node-red-contrib-uibuilder/uibuilder] Error: Cannot find module 'global-modules'
+2019-05-17 11:39:51 WARN  ------------------------------------------------------
+2019-05-17 11:39:51 INFO  Settings file  : C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red\settings.js
+2019-05-17 11:39:51 INFO  HTTP Static    : C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red
+2019-05-17 11:39:51 INFO  User directory : macros/
+2019-05-17 11:39:51 INFO  Flows file     : macros\flowin.json
+2019-05-17 11:39:51 INFO  Starting flows
+2019-05-17 11:39:51 INFO  Started flows
+2019-05-17 11:39:51 INFO  hiiii
+2019-05-17 11:39:51 INFO  Server now running at http://127.0.0.1:8085/admin/
+2019-05-17 11:42:51 DEBUG path :::C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red/Etc/license.properties
+2019-05-17 11:42:51 DEBUG new File(path) :::true
+2019-05-17 11:42:51 DEBUG Date1 is after Date2
+2019-05-17 11:42:51 DEBUG MAC address matched
+2019-05-17 11:42:51 DEBUG MAC valuation status-------true
+2019-05-17 11:42:51 DEBUG you are validated user
+2019-05-17 11:42:51 DEBUG Reading file from java :::config\jsonFiles\dbUsers.json
+2019-05-17 11:42:53 DEBUG Reading file from java :::config\jsonFiles\botProcessMaster.json
+2019-05-17 11:43:36 DEBUG You may edit  :C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red\AtlasWorkbench\assets\propertiesFiles\ATLAS.properties now !
+2019-05-17 11:43:36 DEBUG req body===preConfig.json
+2019-05-17 11:43:36 DEBUG req body==={}
+2019-05-17 11:43:36 DEBUG Reading file from java :::config\jsonFiles\preConfig.json
+2019-05-17 11:43:36 DEBUG Reading file from java :::C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\config\jsonFiles\projectInfo.json
+2019-05-17 11:43:36 DEBUG You may edit  :C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red\AtlasWorkbench\assets\propertiesFiles\ATLAS.properties now !
+2019-05-17 11:43:36 DEBUG req body==={}
+2019-05-17 11:43:36 DEBUG req body===projectInfo.json
+2019-05-17 11:43:36 DEBUG Reading file from java :::config\jsonFiles\projectInfo.json
+2019-05-17 11:43:36 DEBUG filepath: C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red\Etc\license.properties
+2019-05-17 11:44:47 DEBUG outdir===========C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\ImportNodeTemp
+2019-05-17 11:44:47 DEBUG success
+2019-05-17 11:45:27 DEBUG hiii===C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red
+2019-05-17 11:45:27 DEBUG hiii===undefined
+2019-05-17 11:45:27 DEBUG hiii===C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red
+2019-05-17 11:45:27 DEBUG path :::C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red/Etc/license.properties
+2019-05-17 11:45:27 DEBUG new File(path) :::true
+2019-05-17 11:45:27 DEBUG Date1 is after Date2
+2019-05-17 11:45:27 DEBUG MAC address matched
+2019-05-17 11:45:27 DEBUG MAC valuation status-------true
+2019-05-17 11:45:27 DEBUG you are validated user
+2019-05-17 11:45:27 DEBUG userSettingsFileC:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red\settings.js
+2019-05-17 11:45:27 DEBUG get loc filepath==C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\
+2019-05-17 11:45:27 DEBUG flowfile ===flowin.json
+2019-05-17 11:45:28 DEBUG filepath: C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red/AtlasWorkbench/assets/propertiesFiles/ATLAS.properties
+2019-05-17 11:45:28 DEBUG You may edit  :C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red\AtlasWorkbench\assets\propertiesFiles\ATLAS.properties now !
+2019-05-17 11:45:28 DEBUG Reading file from java :::C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\config\jsonFiles\config.json
+2019-05-17 11:45:28 DEBUG Reading file from java :::\C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows\1a502a8c.56ac75.json
+2019-05-17 11:45:28 DEBUG Reading file from java :::\C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows\1db8de7c.330ce2.json
+2019-05-17 11:45:28 DEBUG Reading file from java :::\C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows\5b5e18c2.b54928.json
+2019-05-17 11:45:28 DEBUG Reading file from java :::\C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows\7b048e6.2c92e7.json
+2019-05-17 11:45:28 DEBUG Reading file from java :::\C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows\89c441a1.b8c2.json
+2019-05-17 11:45:28 DEBUG Reading file from java :::\C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows\8ef36c68.8ca4a.json
+2019-05-17 11:45:28 DEBUG Reading file from java :::\C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows\8f69df14.93c24.json
+2019-05-17 11:45:28 DEBUG Reading file from java :::\C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows\9b0db322.bdc6e.json
+2019-05-17 11:45:28 DEBUG Reading file from java :::\C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows\a67dc381.76366.json
+2019-05-17 11:45:28 DEBUG Reading file from java :::\C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows\b1894657.89d8f8.json
+2019-05-17 11:45:28 DEBUG Reading file from java :::\C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows\be8fe6bc.2ed6e8.json
+2019-05-17 11:45:28 DEBUG Reading file from java :::\C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows\cbc2980e.8a0dd8.json
+2019-05-17 11:45:28 DEBUG Reading file from java :::\C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows\d77c8094.3c33c.json
+2019-05-17 11:45:28 DEBUG Reading file from java :::\C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows\e387c2eb.5f775.json
+2019-05-17 11:45:28 DEBUG Reading file from java :::\C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows\eca1dbb9.a63778.json
+2019-05-17 11:45:28 DEBUG Reading file from java :::\C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows\f4a3cba.6378438.json
+2019-05-17 11:45:29 DEBUG Reading file from java :::\C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows\fc33d067.7d92e.json
+2019-05-17 11:45:29 DEBUG flowfile location===C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\macros\rootflows
+2019-05-17 11:45:29 DEBUG noderedurl==0.0.0.0:8085
+2019-05-17 11:45:29 DEBUG Reading file from java :::C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\config\jsonFiles\config.json
+2019-05-17 11:45:29 DEBUG =macro=453==C:/AtlasInstaller_Apr4/Atlas/ATLAS-Framework/node-red/npm/node_modules/node-red/EAKit/Bin
+2019-05-17 11:45:29 DEBUG =macro=453==C:/AtlasInstaller_Apr4/Atlas/ATLAS-Framework/node-red/npm/node_modules/node-red/EAKit/lib
+2019-05-17 11:45:29 DEBUG Inside Outlook
+2019-05-17 11:45:29 DEBUG ss2
+2019-05-17 11:45:29 INFO  static block is initialized ....
+2019-05-17 11:45:29 DEBUG Available dbtypes for RegisterModels => [FOLDER, MYSQL, DERBY]
+2019-05-17 11:45:29 DEBUG ######## root ####### => [FOLDER, MYSQL, DERBY]
+2019-05-17 11:45:29 DEBUG ######## rowslimit ####### => 1000
+2019-05-17 11:45:29 DEBUG ######## dbType ####### => FOLDER
+2019-05-17 11:45:29 DEBUG ######## isDBCreated ####### => false
+2019-05-17 11:45:29 DEBUG ######## dbName ####### => mydb
+2019-05-17 11:45:29 INFO  FolderWrapperImpl => FolderWrapperImpl() => DataBase Type : FOLDER
+2019-05-17 11:45:29 INFO  FolderWrapperImpl => FolderWrapperImpl() => ModelsFolder : C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red\EAKit/Models
+2019-05-17 11:45:29 DEBUG ######## maxthreads ####### => 5
+2019-05-17 11:45:29 DEBUG ######## python ####### => C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red\EAKit/Thirdparty/python/Python27##pythonScriptPath##C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red\EAKit/Thirdparty/python/scoring.py
+2019-05-17 11:45:31 DEBUG Get connection for route {}->http://localhost:8300
+2019-05-17 11:45:31 DEBUG Connecting to localhost:8300
+2019-05-17 11:45:31 DEBUG CookieSpec selected: best-match
+2019-05-17 11:45:31 DEBUG Auth cache not set in the context
+2019-05-17 11:45:31 DEBUG Target auth state: UNCHALLENGED
+2019-05-17 11:45:31 DEBUG Proxy auth state: UNCHALLENGED
+2019-05-17 11:45:31 DEBUG Attempt 1 to execute request
+2019-05-17 11:45:31 DEBUG Sending request: GET /embeddedanalytics/getrequest HTTP/1.1
+2019-05-17 11:45:31 DEBUG  >> "GET /embeddedanalytics/getrequest HTTP/1.1[\r][\n]"
+2019-05-17 11:45:31 DEBUG  >> "Content-Type: application/json[\r][\n]"
+2019-05-17 11:45:31 DEBUG  >> "Host: localhost:8300[\r][\n]"
+2019-05-17 11:45:31 DEBUG  >> "Connection: Keep-Alive[\r][\n]"
+2019-05-17 11:45:31 DEBUG  >> "User-Agent: Apache-HttpClient/4.3.4 (java 1.5)[\r][\n]"
+2019-05-17 11:45:31 DEBUG  >> "[\r][\n]"
+2019-05-17 11:45:31 DEBUG >> GET /embeddedanalytics/getrequest HTTP/1.1
+2019-05-17 11:45:31 DEBUG >> Content-Type: application/json
+2019-05-17 11:45:31 DEBUG >> Host: localhost:8300
+2019-05-17 11:45:31 DEBUG >> Connection: Keep-Alive
+2019-05-17 11:45:31 DEBUG >> User-Agent: Apache-HttpClient/4.3.4 (java 1.5)
+2019-05-17 11:45:31 DEBUG  << "HTTP/1.0 403 Forbidden[\r][\n]"
+2019-05-17 11:45:31 DEBUG  << "Server: BaseHTTP/0.3 Python/2.7.15[\r][\n]"
+2019-05-17 11:45:31 DEBUG  << "Date: Fri, 17 May 2019 06:15:31 GMT[\r][\n]"
+2019-05-17 11:45:31 DEBUG  << "Content-Type: application/json[\r][\n]"
+2019-05-17 11:45:31 DEBUG  << "[\r][\n]"
+2019-05-17 11:45:31 DEBUG Receiving response: HTTP/1.0 403 Forbidden
+2019-05-17 11:45:31 DEBUG << HTTP/1.0 403 Forbidden
+2019-05-17 11:45:31 DEBUG << Server: BaseHTTP/0.3 Python/2.7.15
+2019-05-17 11:45:31 DEBUG << Date: Fri, 17 May 2019 06:15:31 GMT
+2019-05-17 11:45:31 DEBUG << Content-Type: application/json
+2019-05-17 11:45:31 DEBUG Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@77e2a6e2
+2019-05-17 11:45:31 DEBUG Connection 0.0.0.0:62691<->127.0.0.1:8300 shut down
+2019-05-17 11:45:31 INFO  ====== status ====== => is HTTP Server running true
+2019-05-17 11:45:31 DEBUG ####### processJobs ####### 32
+2019-05-17 11:45:31 DEBUG ####### processJobs ####### 34
+2019-05-17 11:45:31 DEBUG ####### processJobs ####### 38
+2019-05-17 11:45:31 DEBUG ####### processJobs ####### 36
+2019-05-17 11:45:31 DEBUG ####### processJobs ####### 18
+2019-05-17 11:45:31 INFO  
+
+Welcome to Node-RED
+===================
+
+2019-05-17 11:45:31 INFO  Node-RED version: v0.18.4
+2019-05-17 11:45:31 INFO  Node.js  version: v8.9.4
+2019-05-17 11:45:31 INFO  Windows_NT 10.0.17134 x64 LE
+2019-05-17 11:45:31 INFO  Palette editor disabled : npm command not found
+2019-05-17 11:45:31 INFO  Loading palette nodes
+2019-05-17 11:45:51 INFO  Dashboard version 2.7.0 started at /ui
+2019-05-17 11:46:03 DEBUG Exception occured in clening sessioncom.jacob.com.ComFailException: Can't co-create object
+2019-05-17 11:46:03 ERROR Exception occuredcom.jacob.com.ComFailException: Can't co-create object
+2019-05-17 11:46:06 WARN  ------------------------------------------------------
+2019-05-17 11:46:06 WARN  [node-red/rpi-gpio] Info : Ignoring Raspberry Pi specific node
+2019-05-17 11:46:06 WARN  [node-red/tail] Not currently supported on Windows.
+2019-05-17 11:46:06 WARN  [node-red-contrib-uibuilder/uibuilder] Error: Cannot find module 'global-modules'
+2019-05-17 11:46:06 WARN  ------------------------------------------------------
+2019-05-17 11:46:06 INFO  Settings file  : C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red\settings.js
+2019-05-17 11:46:06 INFO  HTTP Static    : C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red
+2019-05-17 11:46:06 INFO  User directory : macros/
+2019-05-17 11:46:06 INFO  Flows file     : macros\flowin.json
+2019-05-17 11:46:06 INFO  Starting flows
+2019-05-17 11:46:06 INFO  Started flows
+2019-05-17 11:46:06 INFO  hiiii
+2019-05-17 11:46:06 INFO  Server now running at http://127.0.0.1:8085/admin/
+2019-05-17 11:49:45 DEBUG path :::C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red/Etc/license.properties
+2019-05-17 11:49:45 DEBUG new File(path) :::true
+2019-05-17 11:49:45 DEBUG Date1 is after Date2
+2019-05-17 11:49:45 DEBUG MAC address matched
+2019-05-17 11:49:45 DEBUG MAC valuation status-------true
+2019-05-17 11:49:45 DEBUG you are validated user
+2019-05-17 11:49:45 DEBUG Reading file from java :::config\jsonFiles\dbUsers.json
+2019-05-17 11:49:48 DEBUG Reading file from java :::config\jsonFiles\botProcessMaster.json
+2019-05-17 11:49:49 DEBUG You may edit  :C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red\AtlasWorkbench\assets\propertiesFiles\ATLAS.properties now !
+2019-05-17 11:49:49 DEBUG filepath: C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red\Etc\license.properties
+2019-05-17 11:49:49 DEBUG Reading file from java :::config\jsonFiles\preConfig.json
+2019-05-17 11:49:49 DEBUG req body===preConfig.json
+2019-05-17 11:49:49 DEBUG req body==={}
+2019-05-17 11:49:49 DEBUG Reading file from java :::C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\config\jsonFiles\projectInfo.json
+2019-05-17 11:49:49 DEBUG You may edit  :C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red\AtlasWorkbench\assets\propertiesFiles\ATLAS.properties now !
+2019-05-17 11:49:49 DEBUG req body===projectInfo.json
+2019-05-17 11:49:49 DEBUG req body==={}
+2019-05-17 11:49:49 DEBUG Reading file from java :::config\jsonFiles\projectInfo.json
+2019-05-17 11:50:58 DEBUG Reading file from java :::config\jsonFiles\botProcessMaster.json
+2019-05-17 11:50:59 DEBUG You may edit  :C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red\AtlasWorkbench\assets\propertiesFiles\ATLAS.properties now !
+2019-05-17 11:50:59 DEBUG filepath: C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red\Etc\license.properties
+2019-05-17 11:50:59 DEBUG Reading file from java :::C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\config\jsonFiles\projectInfo.json
+2019-05-17 11:50:59 DEBUG req body===preConfig.json
+2019-05-17 11:50:59 DEBUG req body==={}
+2019-05-17 11:50:59 DEBUG Reading file from java :::config\jsonFiles\preConfig.json
+2019-05-17 11:50:59 DEBUG You may edit  :C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red\AtlasWorkbench\assets\propertiesFiles\ATLAS.properties now !
+2019-05-17 11:50:59 DEBUG req body===projectInfo.json
+2019-05-17 11:50:59 DEBUG req body==={}
+2019-05-17 11:50:59 DEBUG Reading file from java :::config\jsonFiles\projectInfo.json
+2019-05-17 11:51:44 DEBUG Reading file from java :::config\jsonFiles\botProcessMaster.json
+2019-05-17 11:51:56 INFO  Adding flow: Git services [a0a1e654.e959e8]
+2019-05-17 11:51:56 DEBUG Reading file from java :::C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\config\jsonFiles\projectInfo.json
+2019-05-17 11:51:56 DEBUG Reading file from java :::config\jsonFiles\userBots.json
+2019-05-17 11:51:56 DEBUG Reading file from java :::C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\config\jsonFiles\preConfig.json
+2019-05-17 11:51:56 DEBUG C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\dependencydependencydependencydependency
+2019-05-17 11:51:56 DEBUG C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\dependency\Nodes__Git servicesfile
+2019-05-17 11:51:56 DEBUG req body===projectInfo.json
+2019-05-17 11:51:56 DEBUG req body==={}
+2019-05-17 11:51:56 DEBUG Reading file from java :::config\jsonFiles\projectInfo.json
+2019-05-17 11:51:56 DEBUG req body===botInfo.json
+2019-05-17 11:51:56 DEBUG req body==={}
+2019-05-17 11:51:56 DEBUG Reading file from java :::config\jsonFiles\botInfo.json
+2019-05-17 11:51:59 DEBUG Reading file from java :::macros\rootflows\a0a1e654.e959e8.json
+2019-05-17 11:51:59 DEBUG You may edit  :C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red\AtlasWorkbench\assets\propertiesFiles\ATLAS.properties now !
+2019-05-17 11:52:32 INFO  Stopping flows
+2019-05-17 11:52:32 INFO  Stopped flows
+2019-05-17 11:52:32 INFO  Starting flows
+2019-05-17 11:52:32 INFO  Started flows
+2019-05-17 11:52:34 DEBUG You may edit  :C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red\AtlasWorkbench\assets\propertiesFiles\ATLAS.properties now !
+2019-05-17 11:52:34 DEBUG injectida0a1e654.e959e8
+2019-05-17 11:52:34 DEBUG in getBotInfo
+2019-05-17 11:52:35 DEBUG injectida0a1e654.e959e8
+2019-05-17 11:52:35 DEBUG in getBotInfo
+2019-05-17 11:52:35 DEBUG ==usage metrics==
+2019-05-17 11:52:35 DEBUG ==usage metrics==
+2019-05-17 11:52:35 DEBUG =====================================================================================5ad83188.8fff6
+2019-05-17 11:52:35 DEBUG injectida0a1e654.e959e8
+2019-05-17 11:52:35 DEBUG in getBotInfo
+2019-05-17 11:52:35 DEBUG ==usage metrics==
+2019-05-17 11:52:35 DEBUG ==usage metrics==
+2019-05-17 11:52:35 DEBUG =====================================================================================5ad83188.8fff6
+2019-05-17 11:52:35 DEBUG Reading file from java :::macros\rootflows\a0a1e654.e959e8.json
+2019-05-17 11:52:35 DEBUG You may edit  :C:\AtlasInstaller_Apr4\Atlas\ATLAS-Framework\node-red\npm\node_modules\node-red\AtlasWorkbench\assets\propertiesFiles\ATLAS.properties now !
